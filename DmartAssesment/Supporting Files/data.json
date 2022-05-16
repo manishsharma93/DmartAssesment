@@ -1,0 +1,182 @@
+{
+    "status": 1,
+    "mesage": "Successful",
+    "data": [
+        {
+            "id": "1",
+            "title": "Carousel",
+            "type": "carousel",
+            "bucket_data": [
+                {
+                    "name": "Title1",
+                    "price": "$100",
+                    "imageURL": "https://wallpapercave.com/wp/X0hSfWT.jpg"
+                },
+                {
+                    "name": "Title2",
+                    "price": "$100",
+                    "imageURL": "https://wallpapercave.com/wp/C4pGqVD.jpg"
+                },
+                {
+                    "name": "Title3",
+                    "price": "$100",
+                    "imageURL": "https://wallpapercave.com/wp/X0hSfWT.jpg"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Products List",
+            "type": "list",
+            "bucket_data": [
+                {
+                    "name": "Title1",
+                    "price": "$100",
+                    "imageURL": "https://vignette.wikia.nocookie.net/epic-rap-battles-of-cartoons/images/9/9f/Doraemon.png"
+                },
+                {
+                    "name": "Title2",
+                    "price": "$100",
+                    "imageURL": ""
+                },
+                {
+                    "name": "Title3",
+                    "price": "$100",
+                    "imageURL": ""
+                },
+                {
+                    "name": "Title4",
+                    "price": "$100",
+                    "imageURL": ""
+                },
+                {
+                    "name": "Title5",
+                    "price": "$100",
+                    "imageURL": "https://vignette.wikia.nocookie.net/epic-rap-battles-of-cartoons/images/9/9f/Doraemon.png"
+                    
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "title": "Carousel",
+            "type": "carousel",
+            "bucket_data": [
+                {
+                    "name": "Title1",
+                    "price": "$100",
+                    "imageURL": "https://wallpapercave.com/wp/X0hSfWT.jpg"
+                },
+                {
+                    "name": "Title2",
+                    "price": "$100",
+                    "imageURL": "https://wallpapercave.com/wp/C4pGqVD.jpg"
+                },
+                {
+                    "name": "Title3",
+                    "price": "$100",
+                    "imageURL": "https://wallpapercave.com/wp/X0hSfWT.jpg"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Products Grid",
+            "type": "grid",
+            "bucket_data": [
+                {
+                    "name": "Title1",
+                    "price": "$100",
+                    "imageURL": ""
+                },
+                {
+                    "name": "Title2",
+                    "price": "$100",
+                    "imageURL": ""
+                    
+                },
+                {
+                    "name": "Title3",
+                    "price": "$100",
+                    "imageURL": "https://vignette.wikia.nocookie.net/epic-rap-battles-of-cartoons/images/9/9f/Doraemon.png"
+                    
+                },
+                {
+                    "name": "Title4",
+                    "price": "$100",
+                    "imageURL": ""
+                    
+                },
+                {
+                    "name": "Title5",
+                    "price": "$100",
+                    "imageURL": "https://vignette.wikia.nocookie.net/epic-rap-battles-of-cartoons/images/9/9f/Doraemon.png"
+                    
+                },
+                {
+                    "name": "Title6",
+                    "price": "$100",
+                    "imageURL": ""
+                    
+                },
+                {
+                    "name": "Title7",
+                    "price": "$100",
+                    "imageURL": ""
+                    
+                },
+                {
+                    "name": "Title8",
+                    "price": "$100",
+                    "imageURL": ""
+                    
+                },
+                {
+                    "name": "Title9",
+                    "price": "$100",
+                    "imageURL": ""
+                    
+                },
+                {
+                    "name": "Title10",
+                    "price": "$100",
+                    "imageURL": ""
+                    
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Products List",
+            "type": "list",
+            "bucket_data": [
+                {
+                    "name": "Title1",
+                    "price": "$100",
+                    "imageURL": "https://vignette.wikia.nocookie.net/epic-rap-battles-of-cartoons/images/9/9f/Doraemon.png"
+                },
+                {
+                    "name": "Title2",
+                    "price": "$100",
+                    "imageURL": ""
+                },
+                {
+                    "name": "Title3",
+                    "price": "$100",
+                    "imageURL": ""
+                },
+                {
+                    "name": "Title4",
+                    "price": "$100",
+                    "imageURL": ""
+                },
+                {
+                    "name": "Title5",
+                    "price": "$100",
+                    "imageURL": "https://vignette.wikia.nocookie.net/epic-rap-battles-of-cartoons/images/9/9f/Doraemon.png"
+                    
+                }
+            ]
+        }
+    ]
+}
